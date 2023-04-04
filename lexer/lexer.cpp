@@ -2,6 +2,8 @@
 
 /* The following source code is referenced to the Lexing Phase No1. */
 
+/* needs improvement */
+
 #include <algorithm>
 #include <array>
 #include <variant>
@@ -71,8 +73,6 @@ enum class ReservedToken : std::uint8_t
 	
 	// new element injection() as function  ???
 	// ideal new CAiml Data Types
-	
-	// needs work
 	
 	//ChatbotTable [arrayElement1]....  ???
 	
@@ -288,45 +288,3 @@ int main()
 {
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
