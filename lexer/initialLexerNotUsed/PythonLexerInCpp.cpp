@@ -1,6 +1,7 @@
 /* 04 April 2023 */
 
-/* The following source code is referenced to the Lexing Phase No1. */
+/* The following source code is referenced to the Lexing Phase No1. 
+Python is used as template. */
 
 /* needs improvement */
 
